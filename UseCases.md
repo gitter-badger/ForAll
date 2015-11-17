@@ -25,7 +25,7 @@ Desde la aplicación cliente se pueden solicitar al servidor listas de proyectos
 * Autor/Últimos 5 editores/ Propietario / Colaboradores
 * Fecha de la última versión
 * Nombre del archivo/proyecto
-* Extensión de erchivo
+* Extensión de archivo
 
 ###Arranque del sistema
 Cuando el programa es iniciado en el lado del servidor, busca una configuración anterior y reanuda el servicio.
