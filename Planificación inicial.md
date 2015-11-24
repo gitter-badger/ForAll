@@ -2,8 +2,7 @@
 
 ### Ámbito del proyecto
 
-Reunión con los clientes los dias 10 y 17 de noviembre de 2015. La idea es obtener una descripción del ámbito del proyecto de una página
-Casus de uso importanes
+Reunión con los clientes los dias 10 y 17 de noviembre de 2015. La idea es obtener una descripción del ámbito del proyecto de una página con lso casos de uso más importanes.
 
 ### Modelo de proceso de desarrollo
 
@@ -23,4 +22,6 @@ Antes del 1/12/2015 se elabora un documento para explicar como vamos a funcionar
 
 
 
-### 
+### Estimación
+
+Lo realizaremos antes del 9/12/2015. Nos permitirá hacer una revisión más exhaustiva de la planificación y acotar las fechas de entrega.
