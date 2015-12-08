@@ -1,3 +1,7 @@
+El siguiente documento resume los casos de uso a implementar del sistema.
+
+To do: Análisis detallado de los casos de uso.
+
 Tabla de permisos de usuario
 ----------------------------
 | Acción | [Currante](https://www.youtube.com/watch?v=kWrjYdD0Tg0) | Jefe de proyecto | [BOFH](http://www.benavent.org/bofh/) |
