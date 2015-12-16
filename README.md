@@ -1,4 +1,6 @@
 # ForAll
+
+[![Join the chat at https://gitter.im/Jsevillamol/ForAll](https://badges.gitter.im/Jsevillamol/ForAll.svg)](https://gitter.im/Jsevillamol/ForAll?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Servicio de control de cambios para redes locales.
 
 ## Features
